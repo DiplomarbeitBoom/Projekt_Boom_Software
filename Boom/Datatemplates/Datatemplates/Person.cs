@@ -14,7 +14,6 @@ namespace PersonendarstellungWPF
     public class Person: Rootable, INotifyPropertyChanged
     {
         //Properties
-        // Root -> Relationtabelle anzeigen, und nicht Roots löschen
         public int Ebene = 0;
 
         // Personendaten

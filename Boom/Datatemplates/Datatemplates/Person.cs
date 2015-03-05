@@ -22,7 +22,6 @@ namespace PersonendarstellungWPF
         public DateTime Geburtsdatum { get; set; }
         private String m_Nachname;
         private String m_Vorname;
-        public int Kontonummer { get; set; }
         public String Nachname
         {
             get { return m_Nachname; }

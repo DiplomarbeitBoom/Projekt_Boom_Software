@@ -119,3 +119,6 @@ C:\Users\Florian\Downloads\val_data\val_data\Datatemplates\Datatemplates\Datatem
 C:\Users\Florian\Downloads\val_data\val_data\Datatemplates\Datatemplates\Datatemplates\obj\Debug\Datatemplates.pdb
 C:\Users\Florian\Downloads\val_data\val_data\Datatemplates\Datatemplates\Datatemplates\bin\Debug\Datatemplates.pdb
 C:\Users\Florian\Downloads\val_data\val_data\Datatemplates\Datatemplates\Datatemplates\obj\Debug\Datatemplates.csprojResolveAssemblyReference.cache
+C:\Users\KevinG\Documents\GitHub\Projekt_Boom_Software\Boom\Datatemplates\Datatemplates\bin\Debug\Datatemplates.exe.config
+C:\Users\KevinG\Documents\GitHub\Projekt_Boom_Software\Boom\Datatemplates\Datatemplates\obj\Debug\Datatemplates.exe
+C:\Users\KevinG\Documents\GitHub\Projekt_Boom_Software\Boom\Datatemplates\Datatemplates\obj\Debug\Datatemplates.pdb

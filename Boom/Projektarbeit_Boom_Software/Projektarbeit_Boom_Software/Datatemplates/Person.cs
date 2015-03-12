@@ -17,7 +17,6 @@ namespace Projektarbeit
         // Root -> Relationtabelle anzeigen, und nicht Roots löschen
         public int Ebene = 0;
 
-        // seas
         // Personendaten
         public int PersID { get; set; }
         public DateTime Geburtsdatum { get; set; }

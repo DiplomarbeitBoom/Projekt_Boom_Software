@@ -13,6 +13,7 @@ namespace Projektarbeit
 {
     public class Person: Rootable, INotifyPropertyChanged
     {
+        // Proxy funktioniert nun
         // Properties
         // Root -> Relationtabelle anzeigen, und nicht Roots löschen
         public int Ebene = 0;
